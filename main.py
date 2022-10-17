@@ -17,7 +17,7 @@ for i in range(rnum):
         largestR=i
     print(rsum,end=' ')
 print()
-print('Sum of colomns: ', end=' ')
+print('Sum of columns: ', end=' ')
 for c in range (cnum):
     csum=0;
     for j in range(rnum):
